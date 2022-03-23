@@ -1,0 +1,28 @@
+{
+  "info": {
+    "startDate": "2022-03-23T04:31:22+0000",
+    "finishDate": "2022-03-23T04:32:56+0000"
+  },
+  "tests": [
+    {
+      "testKey": "JIRA-2",
+      "status": "PASS",
+      "comment": ""
+    },
+    {
+      "testKey": "JIRA-3",
+      "status": "PASS",
+      "comment": ""
+    },
+    {
+      "testKey": "JIRA-4",
+      "status": "PASS",
+      "comment": ""
+    },
+    {
+      "testKey": "JIRA-5",
+      "status": "PASS",
+      "comment": ""
+    }
+  ]
+}
