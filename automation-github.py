@@ -51,7 +51,7 @@ def test_case_c(setup):
 @pytest.mark.xray('JIRA-4')    
 def test_case_d(setup): 
     #username
-    setup.find_element_by_xpath("/html/body/div[3]/main/div/div[4]/form/input[2]").send_keys("hihih")
+    setup.find_element_by_xpath("/html/body/div[3]/main/div/div[4]/form/input[2]").send_keys("")
     time.sleep(3)
     #password
     setup.find_element_by_xpath("//html/body/div[3]/main/div/div[4]/form/div/input[1]").send_keys("Purworejo1234")
